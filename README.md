@@ -1,4 +1,7 @@
 # go-hello-world
 
-run below  command after you checkout the code
-go run go run .\main.go
+## Installation & Run
+```bash
+# Download this project
+go run .\main.go 
+```
